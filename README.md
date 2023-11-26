@@ -11,5 +11,4 @@ a desktop application that selects the required element based on the intersectio
 ![2023-11-26_17-30-16](https://github.com/Honotoo/pumpsCalculator/assets/28814889/71d2530e-5051-4128-805f-6bfd33811864)
 
 
-
-![2023-11-26_17-31-20](https://github.com/Honotoo/pumpsCalculator/assets/28814889/202ffa75-ef1c-4b06-861b-6771fa798b3d)
+![2023-11-26_17-33-28](https://github.com/Honotoo/pumpsCalculator/assets/28814889/260f2be0-b6b0-4e9d-943f-27244ec3be49)
